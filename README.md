@@ -20,9 +20,7 @@
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
 <div><br />
 
 ## &nbsp;My Stack
