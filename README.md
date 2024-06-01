@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="350em" src="./.github/assets/banner.png"/>
+</div>
 <h3 align="center">
   Cientista de dados • Analista de investimentos • Python Freelancer
 </h3>
