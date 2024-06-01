@@ -34,3 +34,12 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a student of data science and financial market investor.
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<h3>Contact Me</h3>
+<div align="left">
+<p>
+<a href="mailto:marciogel09@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/marcio-guilherme-0a6591212"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+</div>
