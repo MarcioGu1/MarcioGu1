@@ -19,7 +19,7 @@
 
 </div>
     
-  <img[Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
 
 </div>
 
