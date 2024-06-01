@@ -16,7 +16,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGu1&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
-
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
