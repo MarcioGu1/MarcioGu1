@@ -1,5 +1,5 @@
 <h3 align="center">
-  FullStack Developer • Tech Instructor • Youtuber
+  Cientista de dados • Analista de investimentos • Pythonfreelancer
 </h3>
 
 <div align='center'>
