@@ -20,4 +20,4 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,django,python,flask,power bi,mongodb,aws,git,github,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,django,python,flask,numpy,pandas,mongodb,aws,git,github,postgres&theme=dark" />
