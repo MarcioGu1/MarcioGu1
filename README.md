@@ -45,3 +45,4 @@
 </a>
 <a href="https://www.linkedin.com/in/marcio-guilherme-0a6591212"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
