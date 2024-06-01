@@ -1,7 +1,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a480ff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Marcio+Guilherme;I'm+19+Years+Old;I+Love+JS;Be+Welcome+To+Browse+Here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a480ff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Marcio+Guilherme;I'm+19+Years+Old)](https://git.io/typing-svg)
 </div>
 <h3 align="center">
   Cientista de dados • Analista de investimentos • Python Freelancer
