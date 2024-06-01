@@ -23,7 +23,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,django,python,flask,tensorflow,pytorch,mongodb,aws,git,github,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,pythond,jango,flask,tensorflow,pytorch,aws,git,github,mongodb,postgres&theme=dark" />
 
 ## About me
 
